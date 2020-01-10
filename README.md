@@ -1,6 +1,6 @@
 
 
-## Available Scripts
+## React, Hooks, Git Search App
 
 In the project directory, you can run:
 
